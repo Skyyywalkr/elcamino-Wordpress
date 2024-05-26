@@ -1,0 +1,550 @@
+0000.001 (0) Opened log file at time: Wed, 06 Sep 2023 15:40:42 +0000 on https://elcaminoquecreas.com
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.10 WP: 6.3 PHP: 8.0.29 (cgi-fcgi, Linux f903bee1-3147-82a0-cb09-dac2929dbfcf.secureserver.net 5.4.206-200.el7.x86_64 #1 SMP Thu Jul 28 14:58:01 UTC 2022 x86_64) MySQL: 8.0.33-25 (max packet size=16777216) WPLANG: es_ES Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 37.5M | 42M) multisite: N openssl: OpenSSL 1.1.1u  30 May 2023 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.005 (0) Free space on disk containing Updraft's temporary directory: 112104576 MB
+0000.010 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.016 (0) Semaphore (fd, wp_kkj7xc2zbv_options) being initialised
+0000.020 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.025 (0) Set semaphore last lock (fd) time to 2023-09-06 15:40:42
+0000.026 (0) Semaphore lock (fd) complete
+0000.032 (0) Backup run: resumption=0, nonce=e683162352f5, file_nonce=e683162352f5 begun at=1694014842 (0s ago), job type=backup
+0000.035 (0) Scheduling a resumption (1) after 300 seconds (1694015142) in case this run gets aborted
+0000.082 (0) Checking if we have a zip executable available
+0000.086 (0) Creation of backups of directories: beginning
+0000.094 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.925 (0) Total entities for the zip file: 1582 directories, 8705 files (0 skipped as non-modified), 147 MB
+0001.938 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.947 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.953 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.959 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.964 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.2 MB, 8705 files batched, 421 (421) added so far); re-opening (prior size: 0 KB)
+0004.946 (0) A useful amount of data was added after this amount of zip processing: 5.6 s (normalised: 5.6 s, rate: 4592.2 KB/s)
+0004.950 (0) Performance is good - will increase the amount of data we attempt to batch (time=5.6300559043884, normalised_time=5.5746359708509, max_time=4.9473769664764, data points known=1, old_max_bytes=26214400, new_max_bytes=28214649)
+0004.966 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 500 files added (on-disk size: 7136.8 KB)
+0004.972 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 600 files added (on-disk size: 7136.8 KB)
+0004.978 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 700 files added (on-disk size: 7136.8 KB)
+0004.983 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 800 files added (on-disk size: 7136.8 KB)
+0004.988 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 900 files added (on-disk size: 7136.8 KB)
+0004.994 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 1000 files added (on-disk size: 7136.8 KB)
+0005.000 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 1100 files added (on-disk size: 7136.8 KB)
+0005.007 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 1200 files added (on-disk size: 7136.8 KB)
+0005.014 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 1300 files added (on-disk size: 7136.8 KB)
+0005.021 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 1400 files added (on-disk size: 7136.8 KB)
+0005.024 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (21.1 MB, 8705 files batched, 1001 (1422) added so far); re-opening (prior size: 7136.8 KB)
+0009.239 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 1500 files added (on-disk size: 13118.5 KB)
+0009.244 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 1600 files added (on-disk size: 13118.5 KB)
+0009.249 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 1700 files added (on-disk size: 13118.5 KB)
+0009.254 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 1800 files added (on-disk size: 13118.5 KB)
+0009.262 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 1900 files added (on-disk size: 13118.5 KB)
+0009.268 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 2000 files added (on-disk size: 13118.5 KB)
+0009.276 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 2100 files added (on-disk size: 13118.5 KB)
+0009.282 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 2200 files added (on-disk size: 13118.5 KB)
+0009.289 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 2300 files added (on-disk size: 13118.5 KB)
+0009.295 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 2400 files added (on-disk size: 13118.5 KB)
+0009.299 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (11.3 MB, 8705 files batched, 1001 (2423) added so far); re-opening (prior size: 13118.5 KB)
+0011.531 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 2500 files added (on-disk size: 17623.4 KB)
+0011.539 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 2600 files added (on-disk size: 17623.4 KB)
+0011.547 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 2700 files added (on-disk size: 17623.4 KB)
+0011.555 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 2800 files added (on-disk size: 17623.4 KB)
+0011.563 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 2900 files added (on-disk size: 17623.4 KB)
+0011.571 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 3000 files added (on-disk size: 17623.4 KB)
+0011.579 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 3100 files added (on-disk size: 17623.4 KB)
+0011.587 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 3200 files added (on-disk size: 17623.4 KB)
+0011.594 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 3300 files added (on-disk size: 17623.4 KB)
+0011.602 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 3400 files added (on-disk size: 17623.4 KB)
+0011.607 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (16.1 MB, 8705 files batched, 1001 (3424) added so far); re-opening (prior size: 17623.4 KB)
+0014.001 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 3500 files added (on-disk size: 21977.2 KB)
+0014.007 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 3600 files added (on-disk size: 21977.2 KB)
+0014.013 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 3700 files added (on-disk size: 21977.2 KB)
+0014.018 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 3800 files added (on-disk size: 21977.2 KB)
+0014.024 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 3900 files added (on-disk size: 21977.2 KB)
+0014.029 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 4000 files added (on-disk size: 21977.2 KB)
+0014.035 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 4100 files added (on-disk size: 21977.2 KB)
+0014.041 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 4200 files added (on-disk size: 21977.2 KB)
+0014.048 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 4300 files added (on-disk size: 21977.2 KB)
+0014.054 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 4400 files added (on-disk size: 21977.2 KB)
+0014.057 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (6.8 MB, 8705 files batched, 1001 (4425) added so far); re-opening (prior size: 21977.2 KB)
+0015.618 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 4500 files added (on-disk size: 24997.7 KB)
+0015.626 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 4600 files added (on-disk size: 24997.7 KB)
+0015.633 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 4700 files added (on-disk size: 24997.7 KB)
+0015.638 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 4800 files added (on-disk size: 24997.7 KB)
+0015.644 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 4900 files added (on-disk size: 24997.7 KB)
+0015.649 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 5000 files added (on-disk size: 24997.7 KB)
+0015.653 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 5100 files added (on-disk size: 24997.7 KB)
+0015.659 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 5200 files added (on-disk size: 24997.7 KB)
+0015.664 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 5300 files added (on-disk size: 24997.7 KB)
+0015.669 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 5400 files added (on-disk size: 24997.7 KB)
+0015.672 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (23.8 MB, 8705 files batched, 1001 (5426) added so far); re-opening (prior size: 24997.7 KB)
+0019.019 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 5500 files added (on-disk size: 31860.8 KB)
+0019.024 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 5600 files added (on-disk size: 31860.8 KB)
+0019.029 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 5700 files added (on-disk size: 31860.8 KB)
+0019.035 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 5800 files added (on-disk size: 31860.8 KB)
+0019.040 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 5900 files added (on-disk size: 31860.8 KB)
+0019.045 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 6000 files added (on-disk size: 31860.8 KB)
+0019.050 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 6100 files added (on-disk size: 31860.8 KB)
+0019.055 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 6200 files added (on-disk size: 31860.8 KB)
+0019.061 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 6300 files added (on-disk size: 31860.8 KB)
+0019.065 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 6400 files added (on-disk size: 31860.8 KB)
+0019.068 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (17.8 MB, 8705 files batched, 1001 (6427) added so far); re-opening (prior size: 31860.8 KB)
+0022.407 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 6500 files added (on-disk size: 37835.6 KB)
+0022.415 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 6600 files added (on-disk size: 37835.6 KB)
+0022.423 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 6700 files added (on-disk size: 37835.6 KB)
+0022.430 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 6800 files added (on-disk size: 37835.6 KB)
+0022.437 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 6900 files added (on-disk size: 37835.6 KB)
+0022.445 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 7000 files added (on-disk size: 37835.6 KB)
+0022.452 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 7100 files added (on-disk size: 37835.6 KB)
+0022.460 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 7200 files added (on-disk size: 37835.6 KB)
+0022.468 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 7300 files added (on-disk size: 37835.6 KB)
+0022.476 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 7400 files added (on-disk size: 37835.6 KB)
+0022.480 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (13.8 MB, 8705 files batched, 1001 (7428) added so far); re-opening (prior size: 37835.6 KB)
+0024.859 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 7500 files added (on-disk size: 42882.9 KB)
+0024.865 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 7600 files added (on-disk size: 42882.9 KB)
+0024.870 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 7700 files added (on-disk size: 42882.9 KB)
+0024.875 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 7800 files added (on-disk size: 42882.9 KB)
+0024.880 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 7900 files added (on-disk size: 42882.9 KB)
+0024.885 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 8000 files added (on-disk size: 42882.9 KB)
+0024.890 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 8100 files added (on-disk size: 42882.9 KB)
+0024.895 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 8200 files added (on-disk size: 42882.9 KB)
+0024.900 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 8300 files added (on-disk size: 42882.9 KB)
+0024.905 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 8400 files added (on-disk size: 42882.9 KB)
+0024.908 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (6.7 MB, 8705 files batched, 1001 (8429) added so far); re-opening (prior size: 42882.9 KB)
+0026.494 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 8500 files added (on-disk size: 44452.9 KB)
+0026.500 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 8600 files added (on-disk size: 44452.9 KB)
+0026.505 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.tmp: 8700 files added (on-disk size: 44452.9 KB)
+0027.264 (0) Creating zip file manifest (backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.list-temp.tmp)
+0027.301 (0) Successfully created zip file manifest (size: 762799)
+0027.861 (0) Created plugins zip (0) - 46384 KB in 27.8 s (1670.7 KB/s) (sha1: c7ee3557b154ebe06a57dcfc495a16085a1f2c45, sha256: 44c46d4834aaffa3c3fd1646cd454f7e9876eca473b5f173421732246aeb9fd1)
+0027.880 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0027.881 (0) No remote despatch: user chose no remote backup service
+0027.883 (0) Recording as successfully uploaded: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip
+0027.886 (0) Deleting zip manifest (backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip.list.tmp)
+0027.891 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0027.892 (0) Number of backup sets in history: 0; groups (db): 1
+0027.894 (0) Number of backup sets in history: 0; groups (files): 1
+0027.895 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0027.904 (0) Beginning creation of dump of themes (split every: 400 MB)
+0028.195 (0) Total entities for the zip file: 333 directories, 961 files (0 skipped as non-modified), 22.4 MB
+0028.207 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0028.218 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0028.225 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0028.231 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0028.236 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0028.241 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0028.246 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0028.251 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0028.256 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-themes.zip.tmp: 900 files added (on-disk size: 0 KB)
+0030.816 (0) Creating zip file manifest (backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-themes.zip.list-temp.tmp)
+0030.821 (0) Successfully created zip file manifest (size: 75920)
+0030.909 (0) Created themes zip (0) - 7183 KB in 3 s (2394.4 KB/s) (sha1: a50f52440d781c417ae95b188f23d6782b9b1691, sha256: 85c79102f6014c74fc46e03a86e34e28298f331bf781967810f446fdc333fe7d)
+0030.919 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0030.921 (0) No remote despatch: user chose no remote backup service
+0030.922 (0) Recording as successfully uploaded: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-themes.zip
+0030.926 (0) Deleting zip manifest (backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-themes.zip.list.tmp)
+0030.931 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0030.933 (0) Number of backup sets in history: 0; groups (db): 1
+0030.935 (0) Number of backup sets in history: 0; groups (files): 1
+0030.937 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0030.950 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0030.951 (0) Looking for candidates to backup in: /var/www/wp-content/uploads
+0030.954 (0) finding files: elementor: adding to list (1)
+0030.956 (0) finding files: rank-math: adding to list (2)
+0030.957 (0) finding files: 2021: adding to list (3)
+0030.959 (0) finding files: 2019: adding to list (4)
+0030.961 (0) finding files: redux: adding to list (5)
+0030.963 (0) finding files: sucuri: adding to list (6)
+0030.964 (0) finding files: 2018: adding to list (7)
+0030.966 (0) finding files: 2020: adding to list (8)
+0030.968 (0) finding files: premium-addons-elementor: adding to list (9)
+0030.970 (0) finding files: wpforms: adding to list (10)
+0030.972 (0) finding files: trustindex-facebook-widget.css: adding to list (11)
+0030.974 (0) finding files: smush: adding to list (12)
+0030.975 (0) finding files: wpcf7_uploads: adding to list (13)
+0030.977 (0) finding files: 2023: adding to list (14)
+0030.978 (0) finding files: smush-webp-test.png: adding to list (15)
+0030.980 (0) finding files: astra-sites: adding to list (16)
+0030.981 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0031.041 (0) Total entities for the zip file: 38 directories, 754 files (0 skipped as non-modified), 74.8 MB
+0031.050 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0031.057 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 26.9 MB added on this batch (42.6 MB, 754 files batched, 182 (182) added so far); re-opening (prior size: 0 KB)
+0031.568 (0) A useful amount of data was added after this amount of zip processing: 1.3 s (normalised: 0.8 s, rate: 34837.8 KB/s)
+0031.572 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.2518560886383, normalised_time=0.79090330344102, max_time=31.56950211525, data points known=1, old_max_bytes=28214649, new_max_bytes=209715200)
+0031.579 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-uploads.zip.tmp: 200 files added (on-disk size: 42866.1 KB)
+0031.586 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-uploads.zip.tmp: 300 files added (on-disk size: 42866.1 KB)
+0031.591 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-uploads.zip.tmp: 400 files added (on-disk size: 42866.1 KB)
+0031.596 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-uploads.zip.tmp: 500 files added (on-disk size: 42866.1 KB)
+0031.601 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-uploads.zip.tmp: 600 files added (on-disk size: 42866.1 KB)
+0031.606 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-uploads.zip.tmp: 700 files added (on-disk size: 42866.1 KB)
+0033.532 (0) Creating zip file manifest (backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-uploads.zip.list-temp.tmp)
+0033.538 (0) Successfully created zip file manifest (size: 45816)
+0034.458 (0) Created uploads zip (0) - 74197.9 KB in 3.5 s (21367.3 KB/s) (sha1: dace2ad382261751115431d387744c8634a59fa8, sha256: 1d753d7e952073080c80dabaa7835fb6ced8330c624a8d2aed8105bf70bd793a)
+0034.469 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0034.471 (0) No remote despatch: user chose no remote backup service
+0034.474 (0) Recording as successfully uploaded: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-uploads.zip
+0034.478 (0) Deleting zip manifest (backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-uploads.zip.list.tmp)
+0034.484 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0034.486 (0) Number of backup sets in history: 0; groups (db): 1
+0034.488 (0) Number of backup sets in history: 0; groups (files): 1
+0034.491 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0034.504 (0) Beginning backup of other directories found in the content directory (index: 0)
+0034.506 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0034.507 (0) Looking for candidates to backup in: /var/www/wp-content
+0034.509 (0) finding files: object-cache.php: adding to list (1)
+0034.512 (0) finding files: updraft: skipping: this is the updraft directory
+0034.514 (0) finding files: index.php: adding to list (2)
+0034.516 (0) finding files: mu-plugins: adding to list (3)
+0034.518 (0) finding files: plugins: skipping: this is the plugins directory
+0034.519 (0) finding files: themes: skipping: this is the themes directory
+0034.521 (0) finding files: smush-webp: adding to list (4)
+0034.523 (0) finding files: upgrade-temp-backup: adding to list (5)
+0034.524 (0) finding files: languages: adding to list (6)
+0034.526 (0) finding files: cache: skipping: excluded by options
+0034.528 (0) finding files: uploads: skipping: this is the uploads directory
+0034.530 (0) finding files: upgrade: skipping: excluded by options
+0034.532 (0) finding files: db-error.php: adding to list (7)
+0034.957 (0) Total entities for the zip file: 1570 directories, 6537 files (0 skipped as non-modified), 53.6 MB
+0034.966 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0034.970 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 200 files added (on-disk size: 0 KB)
+0034.974 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 300 files added (on-disk size: 0 KB)
+0034.979 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 400 files added (on-disk size: 0 KB)
+0034.984 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 500 files added (on-disk size: 0 KB)
+0034.988 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 600 files added (on-disk size: 0 KB)
+0034.995 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 700 files added (on-disk size: 0 KB)
+0035.003 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 800 files added (on-disk size: 0 KB)
+0035.008 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 900 files added (on-disk size: 0 KB)
+0035.012 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0035.014 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (4.6 MB, 6537 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0035.977 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 1100 files added (on-disk size: 2191.9 KB)
+0035.982 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 1200 files added (on-disk size: 2191.9 KB)
+0035.987 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 1300 files added (on-disk size: 2191.9 KB)
+0035.992 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 1400 files added (on-disk size: 2191.9 KB)
+0035.997 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 1500 files added (on-disk size: 2191.9 KB)
+0036.002 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 1600 files added (on-disk size: 2191.9 KB)
+0036.006 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 1700 files added (on-disk size: 2191.9 KB)
+0036.011 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 1800 files added (on-disk size: 2191.9 KB)
+0036.016 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 1900 files added (on-disk size: 2191.9 KB)
+0036.020 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 2000 files added (on-disk size: 2191.9 KB)
+0036.022 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (2.3 MB, 6537 files batched, 1001 (2002) added so far); re-opening (prior size: 2191.9 KB)
+0037.365 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 2100 files added (on-disk size: 3115.9 KB)
+0037.370 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 2200 files added (on-disk size: 3115.9 KB)
+0037.375 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 2300 files added (on-disk size: 3115.9 KB)
+0037.380 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 2400 files added (on-disk size: 3115.9 KB)
+0037.386 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 2500 files added (on-disk size: 3115.9 KB)
+0037.390 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 2600 files added (on-disk size: 3115.9 KB)
+0037.396 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 2700 files added (on-disk size: 3115.9 KB)
+0037.403 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 2800 files added (on-disk size: 3115.9 KB)
+0037.410 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 2900 files added (on-disk size: 3115.9 KB)
+0037.415 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 3000 files added (on-disk size: 3115.9 KB)
+0037.417 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (11.2 MB, 6537 files batched, 1001 (3003) added so far); re-opening (prior size: 3115.9 KB)
+0038.762 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 3100 files added (on-disk size: 6250.3 KB)
+0038.767 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 3200 files added (on-disk size: 6250.3 KB)
+0038.772 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 3300 files added (on-disk size: 6250.3 KB)
+0038.777 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 3400 files added (on-disk size: 6250.3 KB)
+0038.782 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 3500 files added (on-disk size: 6250.3 KB)
+0038.787 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 3600 files added (on-disk size: 6250.3 KB)
+0038.792 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 3700 files added (on-disk size: 6250.3 KB)
+0038.797 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 3800 files added (on-disk size: 6250.3 KB)
+0038.802 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 3900 files added (on-disk size: 6250.3 KB)
+0038.807 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 4000 files added (on-disk size: 6250.3 KB)
+0038.809 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (7.1 MB, 6537 files batched, 1001 (4004) added so far); re-opening (prior size: 6250.3 KB)
+0039.530 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 4100 files added (on-disk size: 9708.5 KB)
+0039.536 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 4200 files added (on-disk size: 9708.5 KB)
+0039.542 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 4300 files added (on-disk size: 9708.5 KB)
+0039.548 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 4400 files added (on-disk size: 9708.5 KB)
+0039.554 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 4500 files added (on-disk size: 9708.5 KB)
+0039.560 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 4600 files added (on-disk size: 9708.5 KB)
+0039.566 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 4700 files added (on-disk size: 9708.5 KB)
+0039.573 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 4800 files added (on-disk size: 9708.5 KB)
+0039.579 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 4900 files added (on-disk size: 9708.5 KB)
+0039.585 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 5000 files added (on-disk size: 9708.5 KB)
+0039.587 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (12.2 MB, 6537 files batched, 1001 (5005) added so far); re-opening (prior size: 9708.5 KB)
+0041.604 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 5100 files added (on-disk size: 14676.8 KB)
+0041.610 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 5200 files added (on-disk size: 14676.8 KB)
+0041.616 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 5300 files added (on-disk size: 14676.8 KB)
+0041.622 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 5400 files added (on-disk size: 14676.8 KB)
+0041.627 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 5500 files added (on-disk size: 14676.8 KB)
+0041.633 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 5600 files added (on-disk size: 14676.8 KB)
+0041.639 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 5700 files added (on-disk size: 14676.8 KB)
+0041.644 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 5800 files added (on-disk size: 14676.8 KB)
+0041.649 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 5900 files added (on-disk size: 14676.8 KB)
+0041.655 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 6000 files added (on-disk size: 14676.8 KB)
+0041.657 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (5.2 MB, 6537 files batched, 1001 (6006) added so far); re-opening (prior size: 14676.8 KB)
+0042.454 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 6100 files added (on-disk size: 16323 KB)
+0042.459 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 6200 files added (on-disk size: 16323 KB)
+0042.463 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 6300 files added (on-disk size: 16323 KB)
+0042.468 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 6400 files added (on-disk size: 16323 KB)
+0042.472 (0) Zip: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.tmp: 6500 files added (on-disk size: 16323 KB)
+0044.097 (0) Creating zip file manifest (backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.list-temp.tmp)
+0044.120 (0) Successfully created zip file manifest (size: 716342)
+0044.368 (0) Created others zip (0) - 19571.5 KB in 9.8 s (1990.8 KB/s) (sha1: 80906b84bcd49a4f3c5d9356e1b67dfe4e66b452, sha256: 1a52c524b5a377edc385bace8caa4d22685029ca5569764eaed55b9ab5715f46)
+0044.387 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0044.389 (0) No remote despatch: user chose no remote backup service
+0044.391 (0) Recording as successfully uploaded: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip
+0044.394 (0) Deleting zip manifest (backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip.list.tmp)
+0044.400 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0044.403 (0) Number of backup sets in history: 0; groups (db): 1
+0044.405 (0) Number of backup sets in history: 0; groups (files): 1
+0044.407 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0044.427 (0) Saving backup status to database (elements: 8)
+0044.433 (0) Beginning creation of database dump (WordPress DB)
+0044.436 (0) SQL compatibility mode is: NO_ENGINE_SUBSTITUTION
+0044.474 (0) Table wp_kkj7xc2zbv_options: Total expected rows (via COUNT): 963
+0044.896 (0) Table wp_kkj7xc2zbv_options: Rows added in this batch (next record: 54029): 959 (uncompressed bytes in this segment=8240630) in 0.44 seconds
+0044.914 (0) Table wp_kkj7xc2zbv_options: finishing file(s) (2, 901.8 KB)
+0044.926 (0) Table wp_kkj7xc2zbv_users: Total expected rows (via COUNT): 5
+0044.927 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0044.932 (0) Table wp_kkj7xc2zbv_users: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=2219) in 0.01 seconds
+0044.941 (0) Table wp_kkj7xc2zbv_users: finishing file(s) (2, 1 KB)
+0044.955 (0) Table wp_kkj7xc2zbv_usermeta: Total expected rows (via COUNT): 133
+0044.956 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0044.964 (0) Table wp_kkj7xc2zbv_usermeta: Rows added in this batch (next record: 150): 133 (uncompressed bytes in this segment=14797) in 0.02 seconds
+0044.977 (0) Table wp_kkj7xc2zbv_usermeta: finishing file(s) (2, 4.9 KB)
+0044.992 (0) Table wp_kkj7xc2zbv_actionscheduler_actions: Total expected rows (via COUNT): 936
+0045.029 (0) Table wp_kkj7xc2zbv_actionscheduler_actions: Rows added in this batch (next record: 6794): 936 (uncompressed bytes in this segment=359250) in 0.05 seconds
+0045.043 (0) Table wp_kkj7xc2zbv_actionscheduler_actions: finishing file(s) (2, 30.6 KB)
+0045.053 (0) Table wp_kkj7xc2zbv_actionscheduler_claims: Total expected rows (via COUNT): 0
+0045.056 (0) Table wp_kkj7xc2zbv_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=688) in 0.01 seconds
+0045.082 (0) Table wp_kkj7xc2zbv_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0045.096 (0) Table wp_kkj7xc2zbv_actionscheduler_groups: Total expected rows (via COUNT): 5
+0045.098 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0045.104 (0) Table wp_kkj7xc2zbv_actionscheduler_groups: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=839) in 0.01 seconds
+0045.123 (0) Table wp_kkj7xc2zbv_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0045.133 (0) Table wp_kkj7xc2zbv_actionscheduler_logs: Total expected rows (approximate): 2814
+0045.176 (0) Table wp_kkj7xc2zbv_actionscheduler_logs: Rows added in this batch (next record: 19605): 2736 (uncompressed bytes in this segment=254346) in 0.05 seconds
+0045.192 (0) Table wp_kkj7xc2zbv_actionscheduler_logs: finishing file(s) (2, 27.9 KB)
+0045.210 (0) Table wp_kkj7xc2zbv_commentmeta: Total expected rows (via COUNT): 110
+0045.212 (0) Table is relatively small; fetch_rows will thus be: 200 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0045.219 (0) Table wp_kkj7xc2zbv_commentmeta: Rows added in this batch (next record: 116): 110 (uncompressed bytes in this segment=13785) in 0.02 seconds
+0045.231 (0) Table wp_kkj7xc2zbv_commentmeta: finishing file(s) (2, 2.8 KB)
+0045.242 (0) Table wp_kkj7xc2zbv_comments: Total expected rows (via COUNT): 189
+0045.243 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0045.260 (0) Table wp_kkj7xc2zbv_comments: Rows added in this batch (next record: 218): 189 (uncompressed bytes in this segment=91231) in 0.02 seconds
+0045.270 (0) Table wp_kkj7xc2zbv_comments: finishing file(s) (2, 21.3 KB)
+0045.281 (0) Table wp_kkj7xc2zbv_links: Total expected rows (via COUNT): 0
+0045.287 (0) Table wp_kkj7xc2zbv_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1364) in 0.01 seconds
+0045.296 (0) Table wp_kkj7xc2zbv_links: finishing file(s) (2, 0.5 KB)
+0045.357 (0) Table wp_kkj7xc2zbv_postmeta: Total expected rows (approximate): 8753
+0047.176 (0) Table wp_kkj7xc2zbv_postmeta: Rows added in this batch (next record: 25660): 10239 (uncompressed bytes in this segment=38445560) in 1.87 seconds
+0047.189 (0) Table wp_kkj7xc2zbv_postmeta: finishing file(s) (2, 3621.6 KB)
+0047.239 (0) Table wp_kkj7xc2zbv_posts: Total expected rows (approximate): 2217
+0048.693 (0) Table wp_kkj7xc2zbv_posts: Rows added in this batch (next record: 4252): 1831 (uncompressed bytes in this segment=31446574) in 1.50 seconds
+0048.704 (0) Table wp_kkj7xc2zbv_posts: finishing file(s) (2, 2551.7 KB)
+0048.714 (0) Table wp_kkj7xc2zbv_term_relationships: Total expected rows (approximate): 245
+0048.719 (0) Table wp_kkj7xc2zbv_term_relationships: Rows added in this batch (next record: 100000): 245 (uncompressed bytes in this segment=4883) in 0.01 seconds
+0048.728 (0) Table wp_kkj7xc2zbv_term_relationships: finishing file(s) (2, 1.1 KB)
+0048.740 (0) Table wp_kkj7xc2zbv_term_taxonomy: Total expected rows (via COUNT): 34
+0048.742 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0048.747 (0) Table wp_kkj7xc2zbv_term_taxonomy: Rows added in this batch (next record: 719): 34 (uncompressed bytes in this segment=2180) in 0.01 seconds
+0048.759 (0) Table wp_kkj7xc2zbv_term_taxonomy: finishing file(s) (2, 0.7 KB)
+0048.773 (0) Table wp_kkj7xc2zbv_termmeta: Total expected rows (via COUNT): 3
+0048.774 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0048.780 (0) Table wp_kkj7xc2zbv_termmeta: Rows added in this batch (next record: 4): 3 (uncompressed bytes in this segment=909) in 0.01 seconds
+0048.793 (0) Table wp_kkj7xc2zbv_termmeta: finishing file(s) (2, 0.5 KB)
+0048.804 (0) Table wp_kkj7xc2zbv_terms: Total expected rows (via COUNT): 34
+0048.806 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0048.812 (0) Table wp_kkj7xc2zbv_terms: Rows added in this batch (next record: 719): 34 (uncompressed bytes in this segment=1977) in 0.01 seconds
+0048.823 (0) Table wp_kkj7xc2zbv_terms: finishing file(s) (2, 0.9 KB)
+0048.836 (0) Table wp_kkj7xc2zbv_check_email_log: Total expected rows (via COUNT): 0
+0048.842 (0) Table wp_kkj7xc2zbv_check_email_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1109) in 0.01 seconds
+0048.852 (0) Table wp_kkj7xc2zbv_check_email_log: finishing file(s) (2, 0.4 KB)
+0048.863 (0) Table wp_kkj7xc2zbv_e_events: Total expected rows (via COUNT): 0
+0048.866 (0) Table wp_kkj7xc2zbv_e_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=591) in 0.01 seconds
+0048.877 (0) Table wp_kkj7xc2zbv_e_events: finishing file(s) (2, 0.4 KB)
+0048.892 (0) Table wp_kkj7xc2zbv_gdpr_cc_options: Total expected rows (via COUNT): 61
+0048.894 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0048.901 (0) Table wp_kkj7xc2zbv_gdpr_cc_options: Rows added in this batch (next record: 61): 61 (uncompressed bytes in this segment=6903) in 0.02 seconds
+0048.915 (0) Table wp_kkj7xc2zbv_gdpr_cc_options: finishing file(s) (2, 2.3 KB)
+0048.926 (0) Table wp_kkj7xc2zbv_litespeed_url: Total expected rows (via COUNT): 0
+0048.931 (0) Table wp_kkj7xc2zbv_litespeed_url: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=701) in 0.01 seconds
+0048.944 (0) Table wp_kkj7xc2zbv_litespeed_url: finishing file(s) (2, 0.4 KB)
+0048.956 (0) Table wp_kkj7xc2zbv_litespeed_url_file: Total expected rows (via COUNT): 0
+0048.959 (0) Table wp_kkj7xc2zbv_litespeed_url_file: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1156) in 0.01 seconds
+0048.971 (0) Table wp_kkj7xc2zbv_litespeed_url_file: finishing file(s) (2, 0.5 KB)
+0048.983 (0) Table wp_kkj7xc2zbv_rank_math_404_logs: Total expected rows (via COUNT): 99
+0048.985 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0048.993 (0) Table wp_kkj7xc2zbv_rank_math_404_logs: Rows added in this batch (next record: 99): 99 (uncompressed bytes in this segment=9087) in 0.02 seconds
+0049.004 (0) Table wp_kkj7xc2zbv_rank_math_404_logs: finishing file(s) (2, 2.2 KB)
+0049.015 (0) Table wp_kkj7xc2zbv_rank_math_analytics_gsc: Total expected rows (approximate): 16100
+0049.382 (0) Table wp_kkj7xc2zbv_rank_math_analytics_gsc: Rows added in this batch (next record: 19312): 19075 (uncompressed bytes in this segment=2511048) in 0.37 seconds
+0049.396 (0) Table wp_kkj7xc2zbv_rank_math_analytics_gsc: finishing file(s) (2, 218 KB)
+0049.412 (0) Table wp_kkj7xc2zbv_rank_math_analytics_inspections: Total expected rows (via COUNT): 177
+0049.414 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0049.432 (0) Table wp_kkj7xc2zbv_rank_math_analytics_inspections: Rows added in this batch (next record: 253): 177 (uncompressed bytes in this segment=83595) in 0.03 seconds
+0049.445 (0) Table wp_kkj7xc2zbv_rank_math_analytics_inspections: finishing file(s) (2, 6.4 KB)
+0049.457 (0) Table wp_kkj7xc2zbv_rank_math_analytics_objects: Total expected rows (via COUNT): 376
+0049.459 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0049.483 (0) Table wp_kkj7xc2zbv_rank_math_analytics_objects: Rows added in this batch (next record: 538): 376 (uncompressed bytes in this segment=78019) in 0.03 seconds
+0049.497 (0) Table wp_kkj7xc2zbv_rank_math_analytics_objects: finishing file(s) (2, 9.3 KB)
+0049.509 (0) Table wp_kkj7xc2zbv_rank_math_internal_links: Total expected rows (via COUNT): 364
+0049.512 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0049.522 (0) Table wp_kkj7xc2zbv_rank_math_internal_links: Rows added in this batch (next record: 20096): 364 (uncompressed bytes in this segment=39296) in 0.02 seconds
+0049.532 (0) Table wp_kkj7xc2zbv_rank_math_internal_links: finishing file(s) (2, 6.4 KB)
+0049.543 (0) Table wp_kkj7xc2zbv_rank_math_internal_meta: Total expected rows (via COUNT): 259
+0049.545 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0049.550 (0) Table wp_kkj7xc2zbv_rank_math_internal_meta: Rows added in this batch (next record: 4249): 259 (uncompressed bytes in this segment=5376) in 0.01 seconds
+0049.561 (0) Table wp_kkj7xc2zbv_rank_math_internal_meta: finishing file(s) (2, 1.2 KB)
+0049.572 (0) Table wp_kkj7xc2zbv_rank_math_redirections: Total expected rows (via COUNT): 0
+0049.577 (0) Table wp_kkj7xc2zbv_rank_math_redirections: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1062) in 0.01 seconds
+0049.588 (0) Table wp_kkj7xc2zbv_rank_math_redirections: finishing file(s) (2, 0.5 KB)
+0049.598 (0) Table wp_kkj7xc2zbv_rank_math_redirections_cache: Total expected rows (via COUNT): 0
+0049.601 (0) Table wp_kkj7xc2zbv_rank_math_redirections_cache: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=929) in 0.01 seconds
+0049.612 (0) Table wp_kkj7xc2zbv_rank_math_redirections_cache: finishing file(s) (2, 0.4 KB)
+0049.622 (0) Table wp_kkj7xc2zbv_smush_dir_images: Total expected rows (via COUNT): 0
+0049.625 (0) Table wp_kkj7xc2zbv_smush_dir_images: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1145) in 0.01 seconds
+0049.637 (0) Table wp_kkj7xc2zbv_smush_dir_images: finishing file(s) (2, 0.5 KB)
+0049.648 (0) Table wp_kkj7xc2zbv_trustindex_facebook_reviews: Total expected rows (approximate): 3
+0049.652 (0) Table wp_kkj7xc2zbv_trustindex_facebook_reviews: Rows added in this batch (next record: 1000): 3 (uncompressed bytes in this segment=2431) in 0.01 seconds
+0049.666 (0) Table wp_kkj7xc2zbv_trustindex_facebook_reviews: finishing file(s) (2, 1 KB)
+0049.677 (0) Table wp_kkj7xc2zbv_wpaas_activity_log: Total expected rows (approximate): 1115
+0049.696 (0) Table wp_kkj7xc2zbv_wpaas_activity_log: Rows added in this batch (next record: 25339): 1089 (uncompressed bytes in this segment=112447) in 0.02 seconds
+0049.706 (0) Table wp_kkj7xc2zbv_wpaas_activity_log: finishing file(s) (2, 7.8 KB)
+0049.722 (0) Table wp_kkj7xc2zbv_wpforms_payment_meta: Total expected rows (via COUNT): 0
+0049.728 (0) Table wp_kkj7xc2zbv_wpforms_payment_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=797) in 0.01 seconds
+0049.741 (0) Table wp_kkj7xc2zbv_wpforms_payment_meta: finishing file(s) (2, 0.4 KB)
+0049.754 (0) Table wp_kkj7xc2zbv_wpforms_payments: Total expected rows (via COUNT): 0
+0049.760 (0) Table wp_kkj7xc2zbv_wpforms_payments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=2024) in 0.01 seconds
+0049.770 (0) Table wp_kkj7xc2zbv_wpforms_payments: finishing file(s) (2, 0.6 KB)
+0049.784 (0) Table wp_kkj7xc2zbv_wpforms_tasks_meta: Total expected rows (via COUNT): 11
+0049.786 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0049.793 (0) Table wp_kkj7xc2zbv_wpforms_tasks_meta: Rows added in this batch (next record: 100): 11 (uncompressed bytes in this segment=1609) in 0.02 seconds
+0049.805 (0) Table wp_kkj7xc2zbv_wpforms_tasks_meta: finishing file(s) (2, 0.6 KB)
+0049.817 (0) Table wp_kkj7xc2zbv_wpmailsmtp_debug_events: Total expected rows (via COUNT): 17
+0049.820 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0049.824 (0) Table wp_kkj7xc2zbv_wpmailsmtp_debug_events: Rows added in this batch (next record: 17): 17 (uncompressed bytes in this segment=3904) in 0.01 seconds
+0049.834 (0) Table wp_kkj7xc2zbv_wpmailsmtp_debug_events: finishing file(s) (2, 0.9 KB)
+0049.850 (0) Table wp_kkj7xc2zbv_wpmailsmtp_tasks_meta: Total expected rows (via COUNT): 1
+0049.852 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0049.856 (0) Table wp_kkj7xc2zbv_wpmailsmtp_tasks_meta: Rows added in this batch (next record: 9): 1 (uncompressed bytes in this segment=840) in 0.01 seconds
+0049.870 (0) Table wp_kkj7xc2zbv_wpmailsmtp_tasks_meta: finishing file(s) (2, 0.4 KB)
+0049.886 (0) Table wp_kkj7xc2zbv_yoast_indexable: Total expected rows (via COUNT): 0
+0049.892 (0) Table wp_kkj7xc2zbv_yoast_indexable: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=3826) in 0.01 seconds
+0049.906 (0) Table wp_kkj7xc2zbv_yoast_indexable: finishing file(s) (2, 1 KB)
+0049.917 (0) Table wp_kkj7xc2zbv_yoast_indexable_hierarchy: Total expected rows (approximate): 0
+0049.920 (0) Table wp_kkj7xc2zbv_yoast_indexable_hierarchy: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=800) in 0.01 seconds
+0049.933 (0) Table wp_kkj7xc2zbv_yoast_indexable_hierarchy: finishing file(s) (2, 0.4 KB)
+0049.944 (0) Table wp_kkj7xc2zbv_yoast_migrations: Total expected rows (via COUNT): 23
+0049.946 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0049.953 (0) Table wp_kkj7xc2zbv_yoast_migrations: Rows added in this batch (next record: 23): 23 (uncompressed bytes in this segment=1335) in 0.01 seconds
+0049.964 (0) Table wp_kkj7xc2zbv_yoast_migrations: finishing file(s) (2, 0.6 KB)
+0049.975 (0) Table wp_kkj7xc2zbv_yoast_primary_term: Total expected rows (via COUNT): 0
+0049.981 (0) Table wp_kkj7xc2zbv_yoast_primary_term: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=908) in 0.01 seconds
+0049.992 (0) Table wp_kkj7xc2zbv_yoast_primary_term: finishing file(s) (2, 0.5 KB)
+0050.004 (0) Table wp_kkj7xc2zbv_yoast_seo_links: Total expected rows (via COUNT): 0
+0050.007 (0) Table wp_kkj7xc2zbv_yoast_seo_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1018) in 0.01 seconds
+0050.018 (0) Table wp_kkj7xc2zbv_yoast_seo_links: finishing file(s) (2, 0.4 KB)
+0050.020 (0) PHP event: code E_WARNING: filemtime(): stat failed for /var/www/wp-content/updraft/backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db.gz (line 1976, wp-content/plugins/updraftplus/backup.php)
+0050.024 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_options.table.tmpr54030.gz (1/42/fopen): adding to final database dump
+0050.042 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_options.table.gz (2/42/fopen): adding to final database dump
+0050.043 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_users.table.tmpr6.gz (3/42/fopen): adding to final database dump
+0050.045 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_users.table.gz (4/42/fopen): adding to final database dump
+0050.047 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_usermeta.table.tmpr151.gz (5/42/fopen): adding to final database dump
+0050.048 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_usermeta.table.gz (6/42/fopen): adding to final database dump
+0050.050 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_actionscheduler_actions.table.tmpr6795.gz (7/42/fopen): adding to final database dump
+0050.052 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_actionscheduler_actions.table.gz (8/42/fopen): adding to final database dump
+0050.054 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_actionscheduler_claims.table.tmpr0.gz (9/42/fopen): adding to final database dump
+0050.056 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_actionscheduler_claims.table.gz (10/42/fopen): adding to final database dump
+0050.058 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_actionscheduler_groups.table.tmpr6.gz (11/42/fopen): adding to final database dump
+0050.060 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_actionscheduler_groups.table.gz (12/42/fopen): adding to final database dump
+0050.061 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_actionscheduler_logs.table.tmpr19606.gz (13/42/fopen): adding to final database dump
+0050.064 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_actionscheduler_logs.table.gz (14/42/fopen): adding to final database dump
+0050.066 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_commentmeta.table.tmpr117.gz (15/42/fopen): adding to final database dump
+0050.068 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_commentmeta.table.gz (16/42/fopen): adding to final database dump
+0050.069 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_comments.table.tmpr219.gz (17/42/fopen): adding to final database dump
+0050.072 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_comments.table.gz (18/42/fopen): adding to final database dump
+0050.074 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_links.table.tmpr0.gz (19/42/fopen): adding to final database dump
+0050.076 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_links.table.gz (20/42/fopen): adding to final database dump
+0050.078 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_postmeta.table.tmpr25661.gz (21/42/fopen): adding to final database dump
+0050.128 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_postmeta.table.gz (22/42/fopen): adding to final database dump
+0050.130 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_posts.table.tmpr4253.gz (23/42/fopen): adding to final database dump
+0050.167 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_posts.table.gz (24/42/fopen): adding to final database dump
+0050.169 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_term_relationships.table.tmpr100001.gz (25/42/fopen): adding to final database dump
+0050.171 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_term_relationships.table.gz (26/42/fopen): adding to final database dump
+0050.173 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_term_taxonomy.table.tmpr720.gz (27/42/fopen): adding to final database dump
+0050.175 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_term_taxonomy.table.gz (28/42/fopen): adding to final database dump
+0050.177 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_termmeta.table.tmpr5.gz (29/42/fopen): adding to final database dump
+0050.179 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_termmeta.table.gz (30/42/fopen): adding to final database dump
+0050.181 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_terms.table.tmpr720.gz (31/42/fopen): adding to final database dump
+0050.183 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_terms.table.gz (32/42/fopen): adding to final database dump
+0050.184 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_check_email_log.table.tmpr0.gz (33/42/fopen): adding to final database dump
+0050.186 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_check_email_log.table.gz (34/42/fopen): adding to final database dump
+0050.188 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_e_events.table.tmpr0.gz (35/42/fopen): adding to final database dump
+0050.190 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_e_events.table.gz (36/42/fopen): adding to final database dump
+0050.192 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_gdpr_cc_options.table.tmpr62.gz (37/42/fopen): adding to final database dump
+0050.195 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_gdpr_cc_options.table.gz (38/42/fopen): adding to final database dump
+0050.197 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_litespeed_url.table.tmpr0.gz (39/42/fopen): adding to final database dump
+0050.199 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_litespeed_url.table.gz (40/42/fopen): adding to final database dump
+0050.200 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_litespeed_url_file.table.tmpr0.gz (41/42/fopen): adding to final database dump
+0050.202 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_litespeed_url_file.table.gz (42/42/fopen): adding to final database dump
+0050.204 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_rank_math_404_logs.table.tmpr100.gz (43/42/fopen): adding to final database dump
+0050.206 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_rank_math_404_logs.table.gz (44/42/fopen): adding to final database dump
+0050.208 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_rank_math_analytics_gsc.table.tmpr19313.gz (45/42/fopen): adding to final database dump
+0050.215 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_rank_math_analytics_gsc.table.gz (46/42/fopen): adding to final database dump
+0050.217 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_rank_math_analytics_inspections.table.tmpr254.gz (47/42/fopen): adding to final database dump
+0050.219 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_rank_math_analytics_inspections.table.gz (48/42/fopen): adding to final database dump
+0050.221 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_rank_math_analytics_objects.table.tmpr539.gz (49/42/fopen): adding to final database dump
+0050.223 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_rank_math_analytics_objects.table.gz (50/42/fopen): adding to final database dump
+0050.225 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_rank_math_internal_links.table.tmpr20097.gz (51/42/fopen): adding to final database dump
+0050.226 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_rank_math_internal_links.table.gz (52/42/fopen): adding to final database dump
+0050.228 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_rank_math_internal_meta.table.tmpr4250.gz (53/42/fopen): adding to final database dump
+0050.229 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_rank_math_internal_meta.table.gz (54/42/fopen): adding to final database dump
+0050.231 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_rank_math_redirections.table.tmpr0.gz (55/42/fopen): adding to final database dump
+0050.233 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_rank_math_redirections.table.gz (56/42/fopen): adding to final database dump
+0050.234 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_rank_math_redirections_cache.table.tmpr0.gz (57/42/fopen): adding to final database dump
+0050.236 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_rank_math_redirections_cache.table.gz (58/42/fopen): adding to final database dump
+0050.238 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_smush_dir_images.table.tmpr0.gz (59/42/fopen): adding to final database dump
+0050.240 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_smush_dir_images.table.gz (60/42/fopen): adding to final database dump
+0050.242 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_trustindex_facebook_reviews.table.tmpr1001.gz (61/42/fopen): adding to final database dump
+0050.244 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_trustindex_facebook_reviews.table.gz (62/42/fopen): adding to final database dump
+0050.246 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_wpaas_activity_log.table.tmpr25340.gz (63/42/fopen): adding to final database dump
+0050.248 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_wpaas_activity_log.table.gz (64/42/fopen): adding to final database dump
+0050.250 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_wpforms_payment_meta.table.tmpr0.gz (65/42/fopen): adding to final database dump
+0050.251 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_wpforms_payment_meta.table.gz (66/42/fopen): adding to final database dump
+0050.253 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_wpforms_payments.table.tmpr0.gz (67/42/fopen): adding to final database dump
+0050.254 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_wpforms_payments.table.gz (68/42/fopen): adding to final database dump
+0050.256 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_wpforms_tasks_meta.table.tmpr101.gz (69/42/fopen): adding to final database dump
+0050.257 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_wpforms_tasks_meta.table.gz (70/42/fopen): adding to final database dump
+0050.259 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_wpmailsmtp_debug_events.table.tmpr18.gz (71/42/fopen): adding to final database dump
+0050.260 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_wpmailsmtp_debug_events.table.gz (72/42/fopen): adding to final database dump
+0050.262 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_wpmailsmtp_tasks_meta.table.tmpr10.gz (73/42/fopen): adding to final database dump
+0050.264 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_wpmailsmtp_tasks_meta.table.gz (74/42/fopen): adding to final database dump
+0050.266 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_yoast_indexable.table.tmpr0.gz (75/42/fopen): adding to final database dump
+0050.267 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_yoast_indexable.table.gz (76/42/fopen): adding to final database dump
+0050.269 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_yoast_indexable_hierarchy.table.tmpr1.gz (77/42/fopen): adding to final database dump
+0050.270 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_yoast_indexable_hierarchy.table.gz (78/42/fopen): adding to final database dump
+0050.272 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_yoast_migrations.table.tmpr24.gz (79/42/fopen): adding to final database dump
+0050.273 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_yoast_migrations.table.gz (80/42/fopen): adding to final database dump
+0050.275 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_yoast_primary_term.table.tmpr0.gz (81/42/fopen): adding to final database dump
+0050.276 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_yoast_primary_term.table.gz (82/42/fopen): adding to final database dump
+0050.278 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_yoast_seo_links.table.tmpr0.gz (83/42/fopen): adding to final database dump
+0050.280 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db-table-wp_kkj7xc2zbv_yoast_seo_links.table.gz (84/42/fopen): adding to final database dump
+0050.292 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db.gz: finished writing out complete database file (7431.3 KB)
+0050.422 (0) Total database tables backed up: 42 (backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db.gz, size: 7609792, sha1: ef81642b3021e1f262bec16b8056f0d36f0d3afa, sha256: dbded6332bdad6688e3ee3448f410dfeb86301b55b7d525db71bc1ecd57deed8)
+0050.433 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-plugins.zip: plugins: This file has already been successfully uploaded
+0050.435 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-themes.zip: themes: This file has already been successfully uploaded
+0050.436 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-uploads.zip: uploads: This file has already been successfully uploaded
+0050.438 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-others.zip: others: This file has already been successfully uploaded
+0050.440 (0) backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db.gz: db: This file has not yet been successfully uploaded: will queue
+0050.442 (0) Saving backup history. Total backup size: 151.1 MB
+0050.447 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0050.454 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0050.456 (0) No remote despatch: user chose no remote backup service
+0050.458 (0) Recording as successfully uploaded: backup_2023-09-06-1040_El_Camino_que_Creas_e683162352f5-db.gz
+0050.465 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0050.468 (0) Number of backup sets in history: 1; groups (db): 1
+0050.470 (0) Examining (for databases) backup set with group_id=0, nonce=e683162352f5, datestamp=1694014842 (Sep 06 2023 15:40:42)
+0050.471 (0) This backup set is the backup set just made, so will not be deleted.
+0050.471 (0) Number of backup sets in history: 1; groups (files): 1
+0050.473 (0) Examining (for files) backup set with nonce=e683162352f5, datestamp=1694014842 (Sep 06 2023 15:40:42)
+0050.473 (0) This backup set is the backup set just made, so will not be deleted.
+0050.474 (0) This backup set is the backup set just made, so will not be deleted.
+0050.475 (0) This backup set is the backup set just made, so will not be deleted.
+0050.475 (0) This backup set is the backup set just made, so will not be deleted.
+0050.475 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0050.476 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0050.482 (0) Resume backup (e683162352f5, 0): finish run
+0050.487 (0) Decremented the semaphore (fd) by 1
+0050.491 (0) Semaphore (fd) unlocked
+0050.492 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0050.500 (0) The backup succeeded and is now complete
+0050.502 (0) Fetching RSS news feed
+0050.751 (0) Fetched RSS news feed; result is a: SimplePie
+0050.775 (0) Sending email ('Archivos y base de datos (Copia de seguridad completa)') report (attachments: 0, size: 0 KB) to: victo...
+0051.591 (0) La copia de seguridad se ha realizado correctamente y se ha completado

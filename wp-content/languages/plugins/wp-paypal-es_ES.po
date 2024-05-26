@@ -1,0 +1,449 @@
+# Translation of Plugins - Payment Button for PayPal - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Payment Button for PayPal - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-10-20 11:26:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-rc.1\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Payment Button for PayPal - Development (trunk)\n"
+
+#: wp-paypal-order.php:71
+msgid "Custom"
+msgstr "Personalizado"
+
+#: main.php:224
+msgid "Add-ons"
+msgstr "Extensiones"
+
+#: addons/wp-paypal-addons-menu.php:6
+msgid "WP PayPal Add-ons"
+msgstr "Extensiones de WP PayPal"
+
+#: main.php:649
+msgid "The email address that should receive a notification anytime a sale is made. Multiple recipients can be specified by separating the addresses with a comma."
+msgstr "La dirección de correo electrónico que debe recibir un aviso cada vez que se realice una venta. Se pueden especificar varios destinatarios separando las direcciones con una coma."
+
+#: main.php:231
+msgid "Emails"
+msgstr "Correos electrónicos"
+
+#: main.php:508
+msgid "Error! Nonce Security Check Failed! please save the email settings again."
+msgstr "¡Error! ¡Ha fallado la comprobación de seguridad del nonce! Por favor, vuelve a guardar los ajustes del correo electrónico."
+
+#: main.php:572
+msgid "You can find the full list of available email tags <a target=\"_blank\" href=\"%s\">here</a>."
+msgstr "Puedes encontrar la lista completa de etiquetas de correo electrónico disponibles <a target=\"_blank\" href=\"%s\">aquí</a>."
+
+#: main.php:587
+msgid "Email Sender Options"
+msgstr "Opciones del remitente del correo electrónico"
+
+#: main.php:591
+msgid "From Name"
+msgstr "Nombre del remitente"
+
+#: main.php:593
+msgid "The sender name that appears in outgoing emails. Leave empty to use the default."
+msgstr "El nombre del remitente que aparece en los correos electrónicos salientes. Déjalo vacío para usar el valor por defecto."
+
+#: main.php:596
+msgid "From Email Address"
+msgstr "Dirección de correo electrónico del remitente"
+
+#: main.php:598
+msgid "The sender email that appears in outgoing emails. Leave empty to use the default."
+msgstr "El correo electrónico del remitente que aparece en los correos electrónicos salientes. Déjalo vacío para usar el valor por defecto."
+
+#: main.php:602
+msgid "Purchase Receipt Email"
+msgstr "Correo electrónico del recibo de compra"
+
+#: main.php:603
+msgid "A purchase receipt email is sent to the customer after completion of a successful purchase"
+msgstr "Se envía al cliente un correo electrónico con el recibo de compra después de completar correctamente una compra"
+
+#: main.php:607 main.php:640
+msgid "Enable/Disable"
+msgstr "Activar/Desactivar"
+
+#: main.php:610 main.php:643
+msgid "Enable this email notification"
+msgstr "Activar este aviso por correo electrónico"
+
+#: main.php:614 main.php:652
+msgid "Subject"
+msgstr "Asunto"
+
+#: main.php:616
+msgid "The subject line for the purchase receipt email."
+msgstr "La línea del asunto para el correo electrónico del recibo de compra."
+
+#: main.php:619 main.php:657
+msgid "Email Type"
+msgstr "Tipo de correo electrónico"
+
+#: main.php:622 main.php:660
+msgid "Plain Text"
+msgstr "Texto sin formato"
+
+#: main.php:623 main.php:661
+msgid "HTML"
+msgstr "HTML"
+
+#: main.php:625
+msgid "The content type of the purchase receipt email."
+msgstr "El tipo del contenido para el correo electrónico del recibo de compra."
+
+#: main.php:629 main.php:667
+msgid "Email Body"
+msgstr "Cuerpo del correo electrónico"
+
+#: main.php:631
+msgid "The main content of the purchase receipt email."
+msgstr "El contenido principal del correo electrónico del recibo de compra."
+
+#: main.php:635
+msgid "Sale Notification Email"
+msgstr "Correo electrónico de aviso de venta"
+
+#: main.php:636
+msgid "A sale notification email is sent to the chosen recipient after completion of a successful purchase"
+msgstr "Se envía al destinatario elegido un correo electrónico de aviso de venta después de completar correctamente una compra"
+
+#: main.php:647
+msgid "Recipient"
+msgstr "Destinatario"
+
+#: main.php:654
+msgid "The subject line for the sale notification email."
+msgstr "La línea del asunto para el correo electrónico de aviso de venta."
+
+#: main.php:663
+msgid "The content type of the sale notification email."
+msgstr "El tipo del contenido del correo electrónico de aviso de venta."
+
+#: main.php:669
+msgid "The main content of the sale notification email."
+msgstr "El contenido principal del correo electrónico de aviso de venta."
+
+#: main.php:1556
+msgid "Purchase Receipt"
+msgstr "Recibo de compra"
+
+#: main.php:1557
+msgid "Dear"
+msgstr "Estimado/a"
+
+#: main.php:1558
+msgid "Thank you for your purchase. Your purchase details are shown below for your reference:"
+msgstr "Gracias por tu compra. A continuación se muestran los detalles de tu compra para tu referencia:"
+
+#: main.php:1559
+msgid "Transaction ID:"
+msgstr "ID de la transacción:"
+
+#: main.php:1560
+msgid "Product(s):"
+msgstr "Producto(s):"
+
+#: main.php:1561 main.php:1570
+msgid "Total:"
+msgstr "Total:"
+
+#: main.php:1564
+msgid "New Customer Order"
+msgstr "Nuevo pedido del cliente"
+
+#: main.php:1566
+msgid "Hello"
+msgstr "Hola,"
+
+#: main.php:1567
+msgid "A purchase has been made."
+msgstr "Se ha realizado una compra."
+
+#: main.php:1568
+msgid "Purchased by:"
+msgstr "Comprado por:"
+
+#: main.php:1569
+msgid "Product(s) sold:"
+msgstr "Producto(s) vendido(s):"
+
+#: main.php:1571
+msgid "Thank you"
+msgstr "Gracias"
+
+#: wp-paypal-order.php:68
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: main.php:482 main.php:685
+msgid "Need More Features?"
+msgstr "¿Necesitas más características?"
+
+#: main.php:486 main.php:689
+msgid "Need Help?"
+msgstr "¿Necesitas ayuda?"
+
+#: main.php:488 main.php:691
+msgid "Use the <a href=\"%s\">Debug</a> menu for diagnostics."
+msgstr "Usa el menú de <a href=\"%s\">depuración</a> para los diagnósticos."
+
+#: main.php:489 main.php:692
+msgid "Check out the <a target=\"_blank\" href=\"%s\">support forum</a> and <a target=\"_blank\" href=\"%s\">FAQ</a>."
+msgstr "Echa un vistazo al <a target=\"_blank\" href=\"%s\">foro de soporte</a> y a las <a target=\"_blank\" href=\"%s\">FAQ</a>."
+
+#: main.php:490 main.php:693
+msgid "Visit the <a target=\"_blank\" href=\"%s\">plugin homepage</a>."
+msgstr "Visita la <a target=\"_blank\" href=\"%s\">página de inicio del plugin</a>."
+
+#: main.php:492 main.php:695
+msgid "Rate This Plugin"
+msgstr "Valorar este plugin"
+
+#: main.php:493 main.php:696
+msgid "Please <a target=\"_blank\" href=\"%s\">rate us</a> and give feedback."
+msgstr "Por favor, <a target=\"_blank\" href=\"%s\">valóranos</a> y danos tu opinión."
+
+#: main.php:484 main.php:687
+msgid "Check out the <a href=\"%s\">plugin add-ons</a>."
+msgstr "Echa un vistazo a las <a href=\"%s\">extensiones del plugin</a>."
+
+#: main.php:1404
+msgid "Please enter a trial period 2 duration p2"
+msgstr "Por favor, introduce la duración del período 2 de prueba «p2»"
+
+#: main.php:1412
+msgid "Please enter a trial period 2 units of duration t1"
+msgstr "Por favor, introduce las unidades de duración del período 2 de prueba «t1»"
+
+#: main.php:441
+msgid "PayPal Merchant ID"
+msgstr "ID de vendedor de PayPal"
+
+#: main.php:443
+msgid "Your PayPal Merchant ID"
+msgstr "Tu ID de vendedor de PayPal"
+
+#: paypal-ipn.php:246 wp-paypal-checkout.php:466
+msgid "Ship To"
+msgstr "Enviar a"
+
+#: paypal-ipn.php:249 wp-paypal-checkout.php:469
+msgid "Payment Data"
+msgstr "Datos del pago"
+
+#: main.php:804
+msgid "Please enter a correct button type"
+msgstr "Por favor, introduce un tipo de botón correcto"
+
+#: main.php:1384
+msgid "Please enter a trial period duration p1"
+msgstr "Por favor, introduce la duración del período de prueba «p1»"
+
+#: main.php:1392
+msgid "Please enter a trial period units of duration t1"
+msgstr "Por favor, introduce las unidades de duración del período de prueba «t1»"
+
+#: main.php:1427
+msgid "Please enter a regular subscription price a3"
+msgstr "Por favor, introduce el precio de la suscripción normal «a3»"
+
+#: main.php:1436
+msgid "Please enter a subscription duration p3"
+msgstr "Por favor, introduce la duración de la suscripción «p3»"
+
+#: main.php:1444
+msgid "Please enter a subscription units of duration t3"
+msgstr "Por favor, introduce las unidades de duración de la suscripción «t3»"
+
+#: main.php:1106
+msgid "Amount cannot be empty"
+msgstr "El importe no puede estar vacío"
+
+#. Plugin URI of the plugin
+#: main.php
+msgid "https://wphowto.net/wordpress-paypal-plugin-732"
+msgstr "https://wphowto.net/wordpress-paypal-plugin-732"
+
+#: main.php:215 main.php:222
+msgid "Settings"
+msgstr "Ajustes"
+
+#: main.php:223
+msgid "Debug"
+msgstr "Depurar"
+
+#: main.php:230
+msgid "General"
+msgstr "General"
+
+#. Plugin Name of the plugin
+#: main.php main.php:233 wp-paypal-order.php:7
+msgid "WP PayPal"
+msgstr "WP PayPal"
+
+#: main.php:341 main.php:565 main.php:718
+msgid "Settings Saved"
+msgstr "Ajustes guardados"
+
+#: main.php:433
+msgid "Enable Test Mode"
+msgstr "Activar el modo de pruebas"
+
+#: main.php:436
+msgid "Check this option if you want to enable PayPal sandbox for testing"
+msgstr "Marca esta opción si quieres activar PayPal Sandbox para las pruebas"
+
+#: main.php:447
+msgid "PayPal Email"
+msgstr "Correo electrónico de PayPal"
+
+#: main.php:449
+msgid "Your PayPal email address"
+msgstr "Tu dirección de correo electrónico de PayPal"
+
+#: main.php:386 main.php:453
+msgid "Currency Code"
+msgstr "Código de la moneda"
+
+#: main.php:455
+msgid "The currency of the payment"
+msgstr "La moneda del pago"
+
+#: main.php:388 main.php:455
+msgid "example"
+msgstr "ejemplo"
+
+#: main.php:478 main.php:681 main.php:754
+msgid "Save Changes"
+msgstr "Guardar los cambios"
+
+#: main.php:708
+msgid "WP PayPal Debug Log"
+msgstr "Registro de depuración de WP PayPal"
+
+#: main.php:726
+msgid "Debug log file has been reset"
+msgstr "El archivo del registro de depuración ha sido restablecido"
+
+#: main.php:728
+msgid "Debug log file could not be reset"
+msgstr "No se ha podido restablecer el archivo del registro de depuración"
+
+#: main.php:744
+msgid "Enable Debug"
+msgstr "Activar la depuración"
+
+#: main.php:747
+msgid "Check this option if you want to enable debug"
+msgstr "Marca esta opción si quieres activar la depuración"
+
+#: main.php:758
+msgid "Reset Log"
+msgstr "Restablecer el registro"
+
+#: wp-paypal-order.php:5
+msgid "Orders"
+msgstr "Pedidos"
+
+#: wp-paypal-order.php:6 wp-paypal-order.php:8 wp-paypal-order.php:64
+msgid "Order"
+msgstr "Pedido"
+
+#: wp-paypal-order.php:9
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: wp-paypal-order.php:10
+msgid "Add New Order"
+msgstr "Añadir un nuevo pedido"
+
+#: wp-paypal-order.php:11
+msgid "New Order"
+msgstr "Nuevo pedido"
+
+#: wp-paypal-order.php:12
+msgid "Edit Order"
+msgstr "Editar el pedido"
+
+#: wp-paypal-order.php:13
+msgid "View Order"
+msgstr "Ver el pedido"
+
+#: wp-paypal-order.php:14
+msgid "All Orders"
+msgstr "Todos los pedidos"
+
+#: wp-paypal-order.php:15
+msgid "Search Orders"
+msgstr "Buscar pedidos"
+
+#: wp-paypal-order.php:16
+msgid "Parent Orders:"
+msgstr "Pedidos principales:"
+
+#: wp-paypal-order.php:17
+msgid "No Orders found."
+msgstr "No se han encontrado pedidos."
+
+#: wp-paypal-order.php:18
+msgid "No orders found in Trash."
+msgstr "No se han encontrado pedidos en la papelera."
+
+#: wp-paypal-order.php:65 wp-paypal-order.php:98
+msgid "Transaction ID"
+msgstr "ID de la transacción"
+
+#: wp-paypal-order.php:66
+msgid "First Name"
+msgstr "Nombre"
+
+#: wp-paypal-order.php:67
+msgid "Last Name"
+msgstr "Apellidos"
+
+#: wp-paypal-order.php:69
+msgid "Total"
+msgstr "Total"
+
+#: wp-paypal-order.php:70 wp-paypal-order.php:88
+msgid "Payment Status"
+msgstr "Estado del pago"
+
+#: wp-paypal-order.php:72
+msgid "Date"
+msgstr "Fecha"
+
+#: wp-paypal-order.php:93
+msgid "Payment Type"
+msgstr "Tipo de pago"
+
+#. Author URI of the plugin
+#: main.php
+msgid "https://wphowto.net/"
+msgstr "https://wphowto.net/"
+
+#. Description of the plugin
+#: main.php
+msgid "Easily accept PayPal payments in WordPress"
+msgstr "Acepta fácilmente pagos con PayPal en WordPress"
+
+#. Author of the plugin
+#: main.php
+msgid "naa986"
+msgstr "naa986"
+
+#: main.php:235
+msgid "Please visit the <a target=\"_blank\" href=\"%s\">WP PayPal</a> documentation page for setup instructions."
+msgstr "Por favor, visita la página de documentación de <a target=\"_blank\" href=\"%s\">WP PayPal</a> para ver las instrucciones de configuración."
+
+#: main.php:90
+msgid "WP PayPal Debug log file is not writable. Please check to make sure that it has the correct file permission (ideally 644). Otherwise the plugin will not be able to write to the log file. The log file can be found in the root directory of the plugin - "
+msgstr "No se puede escribir en el archivo del registro de depuración de WP PayPal. Por favor, comprueba que tienes los permisos de archivo correctos (lo ideal es 644). De lo contrario, el plugin no podrá escribir en el archivo de registro. Puedes encontrar el archivo de registro en el directorio raíz del plugin - "

@@ -1,0 +1,185 @@
+# Translation of Plugins - Payment Button for PayPal - Development (trunk) in English (UK)
+# This file is distributed under the same license as the Plugins - Payment Button for PayPal - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-12-24 11:23:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-rc.1\n"
+"Language: en_GB\n"
+"Project-Id-Version: Plugins - Payment Button for PayPal - Development (trunk)\n"
+
+#. Plugin URI of the plugin
+#: main.php
+msgid "https://wphowto.net/wordpress-paypal-plugin-732"
+msgstr "https://wphowto.net/wordpress-paypal-plugin-732"
+
+#: main.php:478 main.php:681 main.php:754
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: main.php:215 main.php:222
+msgid "Settings"
+msgstr "Settings"
+
+#: wp-paypal-order.php:66
+msgid "First Name"
+msgstr "First Name"
+
+#: wp-paypal-order.php:67
+msgid "Last Name"
+msgstr "Last Name"
+
+#: main.php:223
+msgid "Debug"
+msgstr "Debug"
+
+#. Plugin Name of the plugin
+#: main.php main.php:233 wp-paypal-order.php:7
+msgid "WP PayPal"
+msgstr "WP PayPal"
+
+#: main.php:341 main.php:565 main.php:718
+msgid "Settings Saved"
+msgstr "Settings Saved"
+
+#: main.php:433
+msgid "Enable Test Mode"
+msgstr "Enable Test Mode"
+
+#: main.php:436
+msgid "Check this option if you want to enable PayPal sandbox for testing"
+msgstr "Check this option if you want to enable PayPal sandbox for testing"
+
+#: main.php:447
+msgid "PayPal Email"
+msgstr "PayPal Email"
+
+#: main.php:449
+msgid "Your PayPal email address"
+msgstr "Your PayPal email address"
+
+#: main.php:386 main.php:453
+msgid "Currency Code"
+msgstr "Currency Code"
+
+#: main.php:455
+msgid "The currency of the payment"
+msgstr "The currency of the payment"
+
+#: main.php:388 main.php:455
+msgid "example"
+msgstr "example"
+
+#: main.php:708
+msgid "WP PayPal Debug Log"
+msgstr "WP PayPal Debug Log"
+
+#: main.php:726
+msgid "Debug log file has been reset"
+msgstr "Debug log file has been reset"
+
+#: main.php:728
+msgid "Debug log file could not be reset"
+msgstr "Debug log file could not be reset"
+
+#: main.php:744
+msgid "Enable Debug"
+msgstr "Enable Debug"
+
+#: main.php:747
+msgid "Check this option if you want to enable debug"
+msgstr "Check this option if you want to enable debug"
+
+#: main.php:758
+msgid "Reset Log"
+msgstr "Reset Log"
+
+#: wp-paypal-order.php:5
+msgid "Orders"
+msgstr "Orders"
+
+#: wp-paypal-order.php:6 wp-paypal-order.php:8 wp-paypal-order.php:64
+msgid "Order"
+msgstr "Order"
+
+#: wp-paypal-order.php:9
+msgid "Add New"
+msgstr "Add New"
+
+#: wp-paypal-order.php:10
+msgid "Add New Order"
+msgstr "Add New Order"
+
+#: wp-paypal-order.php:11
+msgid "New Order"
+msgstr "New Order"
+
+#: wp-paypal-order.php:12
+msgid "Edit Order"
+msgstr "Edit Order"
+
+#: wp-paypal-order.php:13
+msgid "View Order"
+msgstr "View Order"
+
+#: wp-paypal-order.php:14
+msgid "All Orders"
+msgstr "All Orders"
+
+#: wp-paypal-order.php:15
+msgid "Search Orders"
+msgstr "Search Orders"
+
+#: wp-paypal-order.php:16
+msgid "Parent Orders:"
+msgstr "Parent Orders:"
+
+#: wp-paypal-order.php:17
+msgid "No Orders found."
+msgstr "No Orders found."
+
+#: wp-paypal-order.php:65 wp-paypal-order.php:98
+msgid "Transaction ID"
+msgstr "Transaction ID"
+
+#: wp-paypal-order.php:69
+msgid "Total"
+msgstr "Total"
+
+#: wp-paypal-order.php:70 wp-paypal-order.php:88
+msgid "Payment Status"
+msgstr "Payment Status"
+
+#: wp-paypal-order.php:72
+msgid "Date"
+msgstr "Date"
+
+#: wp-paypal-order.php:93
+msgid "Payment Type"
+msgstr "Payment Type"
+
+#. Description of the plugin
+#: main.php
+msgid "Easily accept PayPal payments in WordPress"
+msgstr "Easily accept PayPal payments in WordPress"
+
+#. Author of the plugin
+#: main.php
+msgid "naa986"
+msgstr "naa986"
+
+#: main.php:230
+msgid "General"
+msgstr "General"
+
+#: wp-paypal-order.php:18
+msgid "No orders found in Trash."
+msgstr "No orders found in Bin."
+
+#. Author URI of the plugin
+#: main.php
+msgid "https://wphowto.net/"
+msgstr "https://wphowto.net/"
